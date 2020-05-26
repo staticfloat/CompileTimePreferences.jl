@@ -1,0 +1,6 @@
+name = "UsesCompileTimePreferences"
+uuid = "ae19552e-0746-a912-f9bf-d305dc8664c6"
+version = "0.1.0"
+
+[deps]
+CompileTimePreferences = "028f7cdb-0e28-4ceb-8483-61792cdc2850"
